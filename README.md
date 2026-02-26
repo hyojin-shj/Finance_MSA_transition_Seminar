@@ -1,8 +1,14 @@
 # 📌 금융 IT 관점에서의 MSA 아키텍처 설계와 운영 전략
 
 - 우리FISA 1차 기술세미나  
-- 팀: 돈지켜조 (김동환, 심효진, 우민하, 최예원)
+- 팀: 돈지켜조
+| <img width="200" height="170" src="https://avatars.githubusercontent.com/u/181453012?v=4" /> | <img width="200" height="170" src="https://avatars.githubusercontent.com/u/123048615?v=4" /> | <img width="200" height="170" src="https://avatars.githubusercontent.com/u/114569746?v=4" /> | <img width="200" height="170" src="https://avatars.githubusercontent.com/u/199601496?v=4" /> |
+|:---:|:---:|:---:|:---:|
+| **우민하** | **김동환** | **최예원** | **심효진** |
+| • **MSA 개요 정리** <br> • **모놀리식 vs MSA 비교 분석** <br> • 아키텍처 구조 기초 설계 | • **MSA 도입 유의사항 분석** <br> • 실패 사례 연구 <br> • 리스크 요인 정리 | • **금융권 MSA 도입 사례 분석** <br> • 코어뱅킹 아키텍처 구조 연구 <br> • 정합성 전략 조사 | • **우리은행 관점 MSA 파일럿 전략 제안** <br> • 통신(MVNO) MSA 설계 <br> • 점진적 확산 전략 수립 |
 - 주제: 금융권 MSA 도입 전략 및 우리은행 적용 제안
+
+  
 
 <img width="1920" height="1080" alt="30" src="https://github.com/user-attachments/assets/e8e68b77-1831-4b71-a44c-ab679589feca" />
 
