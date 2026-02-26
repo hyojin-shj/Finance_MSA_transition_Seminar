@@ -1,10 +1,16 @@
 # 📌 금융 IT 관점에서의 MSA 아키텍처 설계와 운영 전략
 
-> 우리FISA 1차 기술세미나  
-> 팀: 돈지켜조 (김동환, 심효진, 우민하, 최예원)
-> 주제: 금융권 MSA 도입 전략 및 우리은행 적용 제안
+- 우리FISA 1차 기술세미나  
+- 팀: 돈지켜조 (김동환, 심효진, 우민하, 최예원)
+- 주제: 금융권 MSA 도입 전략 및 우리은행 적용 제안
 
-[우리FISA - 돈지켜줘 금융MSA도입전략.pdf](https://github.com/user-attachments/files/25566990/FISA.-.MSA.pdf)
+<img width="1920" height="1080" alt="30" src="https://github.com/user-attachments/assets/e8e68b77-1831-4b71-a44c-ab679589feca" />
+
+<img width="1920" height="1080" alt="32" src="https://github.com/user-attachments/assets/96a56eb1-16f1-4f74-aaf7-40a750592724" />
+
+<img width="1920" height="1080" alt="33" src="https://github.com/user-attachments/assets/5d2152b2-da64-4f55-9c07-5fa4cb44d989" />
+
+
 
 ## 💡 Why
 
@@ -17,8 +23,7 @@
 - 대규모 레거시 시스템
 - 절대 장애가 허용되지 않는 구조
 
-> 금융권에서 MSA는 “가능한가?”가 아니라  
-> “어떻게 도입해야 안전한가?”
+> 금융권에서 MSA는 “가능한가?”가 아니라  “어떻게 도입해야 안전한가?”
 
 ---
 
@@ -48,3 +53,4 @@
 - 
 - 조직·운영·관제 역량이 함께 성숙해야 가능
 
+[우리FISA - 돈지켜줘 금융MSA도입전략.pdf](https://github.com/user-attachments/files/25566990/FISA.-.MSA.pdf)
