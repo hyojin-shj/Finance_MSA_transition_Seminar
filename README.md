@@ -85,5 +85,7 @@
   전문 용어 사용 시 최초 등장 지점에서 정의 및 약어 설명 필요
 - 개념 → 정의 → 적용 흐름으로 재구성 필요
 
+![질의응답](https://github.com/user-attachments/assets/a10758b9-f1c9-454f-998c-3d77dccbbf0b)
+
 
 [우리FISA - 돈지켜줘 금융MSA도입전략.pdf](https://github.com/user-attachments/files/25566990/FISA.-.MSA.pdf)
